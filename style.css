@@ -541,6 +541,7 @@ body {
 }
 
 /* ===== BLOG ===== */
+card-img
 .blog-tag {
     display: inline-block;
     font-size: 11px;
@@ -549,7 +550,7 @@ body {
     color: var(--gold);
     margin-bottom: 8px;
 }
-
+/* s */
 .read-more {
     display: inline-block;
     margin-top: 12px;
